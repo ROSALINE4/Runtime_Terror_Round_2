@@ -17,18 +17,18 @@ General Instructions:
 
 4. Fill the details and answer the questions: 
 ********************************************************************************
-Full Name:
+Full Name: ROSALINE ANNARINE BOOTHER
 Class(First Year/ Second Year): 
-Roll No: 
+Roll No: Second Year
 
 what is the git command to clone ?
-Ans : 
+Ans : git clone
 
 what is the git command to commit ?
-Ans :
+Ans :git commit -m "filename"
 
 What is the git command to push ?
-Ans : 
+Ans : git push origin master
 
 ********************************************************************************
 
